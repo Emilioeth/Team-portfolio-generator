@@ -1,0 +1,46 @@
+* {
+    font: Arial;
+}
+header {
+    background-color: rgb(247, 68, 68);
+    color: white;
+    font-size: 50px;
+    height: 140px;
+    text-align: center;
+}
+header h1 {
+    padding-top:25px;
+}
+.box-title {
+    background-color: rgb(63, 63, 236);
+}
+.box.box-title{
+    margin: 0px;
+    border-radius: 0;
+}
+.box.box-body{
+    border-radius: 0;
+    height: 250px;
+    background-color: rgb(247, 247, 247);
+}
+.box.box-body table{
+    margin-top: 28px;
+    height: 150px;
+}
+.box-title h2 {
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+.box-title h3 {
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+.content {
+    padding: 50px;
+}
+.content {
+    display: flex;
+    justify-content: center;
+}
