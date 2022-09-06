@@ -1,7 +1,5 @@
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=30&pause=2000&color=0078D6&width=435&lines=Team+Portfolio;By+Emili0)
-
-  ![Project Img](/imgs/readmeIMG.png)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=30&pause=2000&color=0078D6&width=435&lines=Team+Portfolio+Generator;By+Emili0)
   
   ## Description
   This app is designed to help make a nice looking team portfolio in seconds, it takes user input from the command line and creates a basic team page with the user input.
